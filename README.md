@@ -1,2 +1,0 @@
-# Cloudflare-Meta
-Cloudflare Meta
